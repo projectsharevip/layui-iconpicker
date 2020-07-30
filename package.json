@@ -1,0 +1,21 @@
+{
+  "name": "layui-iconpicker",
+  "version": "1.0.0",
+  "description": "layui IconPicker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "slider",
+    "captcha"
+  ],
+  "author": "wujiawei0926 / Layui-IconPicker",
+  "license": "ISC",
+  "devDependencies": {
+    
+  },
+  "dependencies": {
+    
+  }
+}
